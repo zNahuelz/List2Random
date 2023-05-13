@@ -1,5 +1,5 @@
 # List2Random
-CLI Tool that allows the user to input a list, then the script randomly picks between the entered options.
+Python script that gets a list of elements, and randomly picks between them.
 ## Requeriments
 
 - Python 3
